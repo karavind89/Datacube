@@ -7,6 +7,7 @@ are build without using any databases such as SQL.
 Data Structure used is Default Dictionary
 
 Following functions have been implemented
+
 1) Cuboid {StateID,JobID} is constructed from the Base Cuboid  [JobID]
 -> [UserID,StateID,Country,Title]
 
